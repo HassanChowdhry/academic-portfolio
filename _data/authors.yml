@@ -1,18 +1,10 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
+Hassan Chowdhry:
+  name        : "Hassan Chowdhry"
+  uri         : "https://hassanchowdhry.com"
+  email       : "hassan.chowdhry@dal.ca"
+  bio         : "4th-year CS student, SWE Intern at Activision, Head TA & Researcher at Dalhousie University."
   avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+  github      : "hassanchowdhry"
+  linkedin    : "hassanchowdhry"

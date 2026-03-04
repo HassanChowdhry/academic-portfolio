@@ -1,152 +1,153 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Hassan Chowdhry",
+    "email": "hassan.chowdhry@dal.ca",
+    "phone": "(902) 448-7101",
+    "website": "https://hassanchowdhry.com",
+    "summary": "4th-year CS student, Head TA & Researcher at Dalhousie University. Currently interning at Activision in Vancouver.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Vancouver",
+      "countryCode": "CA",
+      "region": "NS / BC"
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "username": "Hassan Chowdhry",
+        "url": "https://scholar.google.com/citations?user=rW6MVrYAAAAJ&hl=en"
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "username": "Hassan Chowdhry",
+        "url": "https://orcid.org/0009-0005-8454-4500"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "hassanchowdhry",
+        "url": "https://github.com/hassanchowdhry"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "hassanchowdhry",
+        "url": "https://linkedin.com/in/hassanchowdhry"
       }
     ]
   },
-  "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Dalhousie University",
+      "area": "Bachelor of Computer Science (BCS)",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "startDate": "2022-09",
+      "endDate": "2027-05",
+      "gpa": "4.24/4.3",
+      "courses": [
+        "Machine Learning",
+        "Operating Systems",
+        "Software Engineering",
+        "Data Structures & Algorithms",
+        "Cybersecurity",
+        "Advanced Networks",
+        "Databases"
+      ]
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
+  "work": [
+    {
+      "company": "Activision",
+      "position": "Software Engineer Intern",
+      "startDate": "2026-01",
+      "endDate": "",
+      "summary": "Backend microservices in Golang/Python for Call of Duty infrastructure supporting 100M+ MAPs."
+    },
+    {
+      "company": "HyperMatrix Lab",
+      "position": "AI Researcher",
+      "startDate": "2026-01",
+      "endDate": "",
+      "summary": "Generative AI safety research; Multi-Agent RAG Systems; LLM fine-tuning and alignment."
+    },
+    {
+      "company": "Shiftkey Labs",
+      "position": "Instructor",
+      "startDate": "2025-10",
+      "endDate": "2025-12",
+      "summary": "Taught Full Stack Development workshops."
+    },
+    {
+      "company": "Dalhousie University",
+      "position": "Undergraduate Researcher",
+      "startDate": "2025-05",
+      "endDate": "2025-12",
+      "summary": "Agentic AI for Autonomous Cyber Defence using DRL and LLMs."
+    },
+    {
+      "company": "Synopsys",
+      "position": "Software Engineer Intern",
+      "startDate": "2025-01",
+      "endDate": "2025-05",
+      "summary": "Cypress E2E testing for Ansys Fluids; React/FastAPI enterprise simulation workflows."
+    },
+    {
+      "company": "BOTR Solutions",
+      "position": "Software Engineer Intern",
+      "startDate": "2024-05",
+      "endDate": "2024-08",
+      "summary": "CI/CD automation with AWS; Python ETL pipeline for patient-data migration."
+    },
+    {
+      "company": "Dalhousie University",
+      "position": "Head Teaching Assistant",
+      "startDate": "2025-01",
+      "endDate": "2025-12",
+      "summary": "Server-Side Scripting (CSCI 2170). Led 10 TAs, delivered labs for 150+ students."
+    },
+    {
+      "company": "Dalhousie University",
+      "position": "Undergraduate Teaching Assistant",
+      "startDate": "2023-09",
+      "endDate": "2025-12",
+      "summary": "Data Structures & Algorithms, Server-Side Scripting, Web Development, Experimental Robotics."
+    }
+  ],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Evaluating AI Agents for Cyber Defense: A Comparison of Deep Reinforcement Learning and LLM Approaches",
+      "publisher": "IDEAL 2025 — International Conference on Intelligent Data Engineering and Automated Learning",
+      "releaseDate": "2025",
+      "summary": "H. Chowdhry, J. Manero, and S. Sampalli"
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
+  "presentations": [],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
+      "course": "Server-Side Scripting (CSCI 2170)",
+      "institution": "Dalhousie University",
+      "date": "2025-01",
+      "role": "Head Teaching Assistant",
+      "description": "Led 10 TAs, delivered lab sessions for 150+ students."
+    },
+    {
+      "course": "Data Structures & Algorithms (CSCI 2110)",
+      "institution": "Dalhousie University",
+      "date": "2024-09",
+      "role": "Undergraduate Teaching Assistant",
+      "description": "Labs for 150+ students covering DS&A with Java."
+    },
+    {
+      "course": "Experimental Robotics (CSCI 1108)",
+      "institution": "Dalhousie University",
+      "date": "2024-09",
+      "role": "Undergraduate Teaching Assistant",
       "description": ""
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
+      "course": "Web Development (CSCI 1170)",
+      "institution": "Dalhousie University",
+      "date": "2023-09",
+      "role": "Undergraduate Teaching Assistant",
       "description": ""
     }
   ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "portfolio": []
 }
